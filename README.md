@@ -1,7 +1,7 @@
 # Bikesharing
 
 
-[link](https://public.tableau.com/app/profile/lilian.onsoti)
+This analysis can be viwed in Tableau at this [link](https://public.tableau.com/app/profile/lilian.onsoti)
 
 ![image](https://user-images.githubusercontent.com/90416094/149636125-a98580e8-1f3a-4d08-9fd3-88401fbf161a.png)
 ![image](https://user-images.githubusercontent.com/90416094/149636131-faf0afe4-2a95-4cf1-9299-05a3fd20bcfd.png)
