@@ -1,6 +1,5 @@
 # Bikesharing
 
-
 This analysis can be viewed in Tableau at this [link](https://public.tableau.com/app/profile/lilian.onsoti)
 
 The purpose of this project was to analyze bikesharing data from CitiBike in New York City for the purpose of implementing a similar program in Des Moines, Iowa. The analysis focused on analyzing the CitiBike data to better determine the following 
@@ -8,7 +7,7 @@ The purpose of this project was to analyze bikesharing data from CitiBike in New
 - What are the most popular locations for bikers
 - Who are the predominant bike users
 - What are the most popular days and times for biking 
-- 
+
 ## Results
 ### Customers
 ![image](https://user-images.githubusercontent.com/90416094/149636125-a98580e8-1f3a-4d08-9fd3-88401fbf161a.png)
