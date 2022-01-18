@@ -56,4 +56,17 @@ This heatmap demonstrates weekly usage for each hour. Heaviest bike usage is dur
 ![image](https://user-images.githubusercontent.com/90416094/149637964-1b946145-abf9-42dc-b539-5b493018a0eb.png)
 
 This heat map also shows that that most riders identify as males.
+- ----
+## Summary
+The analyzed data displayed in the charts clearly shows that a biking business is popular especially in densely populated urban areas. 
+
+According to the data:
+- majority of riders identify as male. 
+- High usage is mostly during the morning and evening commute hours
+- Popular starting locations for trips are in densely populated areas
+
+## Recommendations
+- Find ways to attract more female riders
+- Find ways to increase trips during low usage times (During the day)
+- Find ways to increase number of rides in the suburbs or low population areas
 
