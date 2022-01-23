@@ -40,6 +40,7 @@ This graph depicts the duration of rides as checkout by gender. The majority of 
 - --------
 ## Most popular starting locations
 
+![image](https://user-images.githubusercontent.com/90416094/150688637-7a76a04a-b90b-4134-8b1d-1797b386dde3.png)
 
 
 The map shows the starting locations for riders. The size of the circle and lightness/darkness of of color of the circle (black) indicates the number of trips that begun at that location. It can be deduced therefore that most starting locations are situated in densely populated areas such as touristic locations or commercial centers. This information is important as it will guide the Bike program being implemented Des Moines, Iowa on the best place to install bike stations.
