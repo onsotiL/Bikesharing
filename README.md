@@ -36,7 +36,7 @@ This graph depicting the duration of trips shows that the majority of trips by C
 
 ## Checkout times by gender
 ![image](https://user-images.githubusercontent.com/90416094/149636163-09e83502-280a-4678-9b98-cbaeedd44c4f.png)
-This graph depicts the duration of rides as checkout by gender. The majority of rides are undertaken by male customers.
+This graph depicts the duration of rides as checkedout by gender. The majority of rides are undertaken by male customers.
 - --------
 ## Most popular starting locations
 
@@ -50,7 +50,7 @@ The map shows the starting locations for riders. The size of the circle and ligh
 
 ![image](https://user-images.githubusercontent.com/90416094/149636194-f12472aa-094f-45ab-80fb-e2e41b10e18a.png)
 
-This heatmap demonstrates weekly usage for each hour. Heaviest bike usage is during commute times depicted by the darker shades. Weekend usage is mostly during the day. 
+This heatmap demonstrates weekly usage for each hour. Heaviest bike usage is during commute times depicted by the darker shades. Weekend bike usage is mostly during the day. 
 - --
 ## Trips by gender by weekday
 
@@ -67,7 +67,8 @@ According to the data:
 - Popular starting locations for trips are in densely populated areas
 
 ## Recommendations
-- Find ways to attract more female riders
+- Use population information to determine the best places to install ride stations
+- Since most riders identify as male, find ways to attract more female riders
 - Find ways to increase trips during low usage times (During the day)
 - Find ways to increase number of rides in the suburbs or low population areas
 
